@@ -40,4 +40,4 @@ Divide the class into pairs for this project. This can be done randomly or by st
 
 ## Bonus
 
-Have description of the image **hover** over image but **not appear** directly on page
+Have the description of an image apear only when you **hover** over the image, but hidden all other times.
