@@ -26,7 +26,7 @@ Divide the class into pairs for this project. This can be done randomly or by st
 
 - Create an Images folder and store all the image files in that folder (you can upload using CodeAnywhere)
 - Use of `<div>` and `<span>` elements in the 3 text paragraphs, with styling defined in CSS
-- Use a minimum of 5 HTML Tags **inline,** in the HTML code (that will work independent of the CSS file)
+- Use a minimum of 5 HTML Tags **inline,** in your HTML files. These tags should work independent of the CSS file (e.g. `<bold>test</bold>`)
 - Use **HTML Comment Tags** to describe each part of the site and explain your work
 
 ## CSS requirements
