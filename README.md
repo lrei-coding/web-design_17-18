@@ -1,6 +1,6 @@
 # Computer Science - Web Design class
 
-## 2017-2018, Trimesters 1-2
+## LREI -- High School -- 2017-2018, Trimesters 1-2
 
 The Web Design class engages our students in a hands-on exploration and practice in building a web site. This class covers basic and advanced HTML, CSS, Bootstrap, and some JavaScript. Students learn the core concepts of coding with these languages. Students put this knowledge into practice by building a website of their own. Students learn about the nature of web hosting and how to access their own shell acounts so they can edit their **live** websites.
 
