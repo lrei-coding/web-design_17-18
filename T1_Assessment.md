@@ -18,16 +18,16 @@ Divide the class into pairs for this project. This can be done randomly or by st
 
 - Multiple .html pages
 - Single CSS page that is used for all .html pages
-- Each **student site ** should have a thumbnail, short name, and 1-2 sentence description
-- First ** .html page** should include 3 short paragraphs about the team designing the portal, including who they are and what they are trying to showcase, using their own style.
-- See list below of requirements for ** HTML** tags and **CSS** rule-sets
+- Each **student site** should have a thumbnail, short name, and 1-2 sentence description
+- First **.html page** should include 3 short paragraphs about the team designing the portal, including who they are and what they are trying to showcase, using their own style.
+- See list below of requirements for **HTML** tags and **CSS** rule-sets
 
 ## HTML requirements
 
 - Create an Images folder and store all the image files in that folder (you can upload using CodeAnywhere)
 - Use of `<div>` and `<span>` elements in the 3 text paragraphs, with styling defined in CSS
-- Use a minimum of 5 **HTML Tags inline, ** in the HTML code (that will work independent of the CSS file)
-- Use **HTML Comment Tags ** to describe each part of the site and explain your work
+- Use a minimum of 5 **HTML Tags inline,** in the HTML code (that will work independent of the CSS file)
+- Use **HTML Comment Tags** to describe each part of the site and explain your work
 
 ## CSS requirements
 
@@ -35,7 +35,7 @@ Divide the class into pairs for this project. This can be done randomly or by st
 - Image size
 - H1 styling
 - Use of Image animation or other filter
-- Use **CSS Comments ** to describe and explain your work
+- Use **CSS Comments** to describe and explain your work
 
 ## Bonus
 
