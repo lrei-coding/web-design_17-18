@@ -34,6 +34,7 @@ Divide the class into pairs for this project. This can be done randomly or by st
 - Background color
 - Image size
 - H1 styling
+- Include `id`, `class`, and `tag` selectors in your CSS file
 - Use at least one example where you **combine** multiple CSS selectors
 - Use of **Image animation** or other filter
 - Use **CSS Comments** to describe and explain your work
