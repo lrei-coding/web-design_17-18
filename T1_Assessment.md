@@ -1,6 +1,6 @@
-## Trimester 1 - HTML, CSS, wireframing, commenting, designing from scratch, and collaboration
+# Web Design Class - Assessment
 
----
+## Trimester 1 - HTML, CSS, wireframing, commenting, designing from scratch, and collaboration
 
 # Team Project: Portal Page
 
