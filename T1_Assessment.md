@@ -25,7 +25,7 @@ Divide the class into pairs for this project. This can be done randomly or by st
 
 ## HTML requirements
 
-- Create an Images folder and store all the image files in that folder (you can upload using CodeAnywhere). You will need to use **relative paths** for all **but one image**
+- Create an Images folder and store all the [image files](https://github.com/lrei-coding/web-design_17-18/tree/master/resources/images) in that folder (you can upload using CodeAnywhere). You will need to use **relative paths** for all **but one image**
 - Use an **absolute path** for one image 
 - Use of `<div>` and `<span>` elements in the 3 text paragraphs, with styling defined in CSS
 - Use a minimum of 5 HTML Tags **inline,** in your HTML files. These tags should work independent of the CSS file (e.g. `<bold>test</bold>`)
