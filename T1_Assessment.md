@@ -20,7 +20,7 @@ Divide the class into pairs for this project. This can be done randomly or by st
 - Site needs to have multiple HTML pages, with links to the other pages on each page.
 - Single CSS page that is used for all HTML pages
 - Each **student site** should have a thumbnail, short name, and 1-2 sentence description
-- First **.html page** should include 3 short paragraphs about the team designing the portal, including who they are and what they are trying to showcase, using their own style.
+- One **Html** page should be titled **about** and include 3 or more short paragraphs about the team designing the portal, including who they are and what they are trying to showcase, using their own style. You can add pictures of your **wireframe** board on this page.
 - See list below of requirements for **HTML** tags and **CSS** rule-sets
 
 ## HTML requirements
