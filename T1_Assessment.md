@@ -12,7 +12,7 @@ Divide the class into pairs for this project. This can be done randomly or by st
 
 - Design a wireframe for the site using markers and (portable) white boards
 - Choose **Title** and **Subheader** for display on portal pages
-- Build the site using **CodeAnywhere**
+- Build the site using [**CodeAnywhere**](https://codeanywhere.com/)
 - One of the team members should create a folder called `T1---student1name---student2name` in their account on **CodeAnywhere**
 
 ## Website Requirements
