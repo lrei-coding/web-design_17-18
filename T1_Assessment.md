@@ -4,7 +4,7 @@
 
 # Team Project: Portal Page
 
-## Each team will design and create a portal page that will feature all the individual student pages, with a small description of the site and/or the site creator
+## Each team will design and create a portal page that will feature all your classmates personal websites, with a small description of the site and/or the site creator
 
 Divide the class into pairs for this project. This can be done randomly or by student request.
 
