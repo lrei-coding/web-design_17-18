@@ -1,12 +1,12 @@
 # Web Design Class - Bootstrap Assignment #1
 
-## Trimester 2 - Using the Boostrap framework to design responsive, mobile-first websites
+## Trimester 2 - Using the Bootstrap framework to design responsive, mobile-first websites
 
-# Individual Project: Mobile Ready Page using Bootstrap 
+# Individual Project: Create a site with Responsive Web Design
 
 - Build the site using [**CodeAnywhere**](https://codeanywhere.com/)
 
-- Create  `index.html` and `style.css` pages in the **/Boostrap** folder 
+- Create  `index.html` and `style.css` pages in the **/Bootstrap** folder 
 
 ## Website Requirements
 
