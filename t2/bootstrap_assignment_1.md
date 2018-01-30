@@ -18,4 +18,4 @@
 
 ## Bonus
 
-Use of spacer div. Hint: [Bootstrap Spacing](https://getbootstrap.com/docs/4.0/utilities/spacing/)
+Use of **spacer** div. Hint: [Bootstrap Spacing](https://getbootstrap.com/docs/4.0/utilities/spacing/)
