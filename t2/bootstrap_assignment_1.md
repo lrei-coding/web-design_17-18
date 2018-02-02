@@ -15,6 +15,7 @@
 - use of **jumbotron** class
 - use at least 4 `row` divs
 - use a multi-column layout in a way that the page renders differntly for smaller and larger devices (e.g. by using `col-sm-6` and `col-md-4`)
+- have content across at least 2 `columns` for displays larger than an iPhone (375 pixels and above)
 
 ## Bonus
 
