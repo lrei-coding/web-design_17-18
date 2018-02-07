@@ -17,6 +17,13 @@
 - use a multi-column layout in a way that the page renders differntly for smaller and larger devices (e.g. by using `col-sm-6` and `col-md-4`)
 - have content across at least 2 `columns` for displays larger than an iPhone (375 pixels and above)
 
+## Buttons (required)
+- use at least 3 buttons
+- Use multiple colors for buttons
+- Have at least 1 button inside an `<a>` tag
+- Use at least 2 glyphicons alongside text, inside buttons
+
 ## Bonus
 
-Use of **spacer** div. Hint: [Bootstrap Spacing](https://getbootstrap.com/docs/4.0/utilities/spacing/)
+- Use of **spacer** div. Hint: [Bootstrap Spacing](https://getbootstrap.com/docs/4.0/utilities/spacing/)
+- Use of **Button Groups** - Have buttons aligned and stretch across the entire width of screen
