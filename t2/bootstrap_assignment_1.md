@@ -23,7 +23,14 @@
 - Have at least 1 button inside an `<a>` tag
 - Use at least 2 glyphicons alongside text, inside buttons
 
+## Navbar (required)
+- use at least 3 tabs
+- Have at least 1 dropdown in one of the navbar tabs
+
 ## Bonus
 
 - Use of **spacer** div. Hint: [Bootstrap Spacing](https://getbootstrap.com/docs/4.0/utilities/spacing/)
 - Use of **Button Groups** - Have buttons aligned and stretch across the entire width of screen
+- Use of **Sticky Navbar** - So the Navbar remains visible as you scroll down the page
+- Custom color for the **Navbar**
+- Create a **carousel** or **table** using bootstrap
